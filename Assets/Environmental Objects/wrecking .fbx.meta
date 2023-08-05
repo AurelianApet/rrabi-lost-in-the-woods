@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: d2a9fde45427a4e4a8e7c7ccfe249b3a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Torus.005
+    100002: Torus.006
+    100004: Torus.007
+    100006: Torus.008
+    100008: Torus.009
+    100010: Torus.011
+    100012: Torus.012
+    100014: Torus.013
+    100016: Torus.014
+    100018: Torus.015
+    100020: Torus.016
+    100022: Torus.017
+    100024: Torus.020
+    100026: Torus.021
+    100028: //RootNode
+    400000: Torus.005
+    400002: Torus.006
+    400004: Torus.007
+    400006: Torus.008
+    400008: Torus.009
+    400010: Torus.011
+    400012: Torus.012
+    400014: Torus.013
+    400016: Torus.014
+    400018: Torus.015
+    400020: Torus.016
+    400022: Torus.017
+    400024: Torus.020
+    400026: Torus.021
+    400028: //RootNode
+    2300000: Torus.005
+    2300002: Torus.006
+    2300004: Torus.007
+    2300006: Torus.008
+    2300008: Torus.009
+    2300010: Torus.011
+    2300012: Torus.012
+    2300014: Torus.013
+    2300016: Torus.014
+    2300018: Torus.015
+    2300020: Torus.016
+    2300022: Torus.017
+    2300024: Torus.020
+    2300026: Torus.021
+    3300000: Torus.005
+    3300002: Torus.006
+    3300004: Torus.007
+    3300006: Torus.008
+    3300008: Torus.009
+    3300010: Torus.011
+    3300012: Torus.012
+    3300014: Torus.013
+    3300016: Torus.014
+    3300018: Torus.015
+    3300020: Torus.016
+    3300022: Torus.017
+    3300024: Torus.020
+    3300026: Torus.021
+    4300000: Torus.021
+    4300002: Torus.020
+    4300004: Torus.017
+    4300006: Torus.016
+    4300008: Torus.015
+    4300010: Torus.014
+    4300012: Torus.013
+    4300014: Torus.012
+    4300016: Torus.011
+    4300018: Torus.009
+    4300020: Torus.008
+    4300022: Torus.007
+    4300024: Torus.006
+    4300026: Torus.005
+    6400000: Torus.005
+    6400002: Torus.006
+    6400004: Torus.007
+    6400006: Torus.008
+    6400008: Torus.009
+    6400010: Torus.011
+    6400012: Torus.012
+    6400014: Torus.013
+    6400016: Torus.014
+    6400018: Torus.015
+    6400020: Torus.016
+    6400022: Torus.017
+    6400024: Torus.020
+    6400026: Torus.021
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
